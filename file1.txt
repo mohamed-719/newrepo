@@ -1,1 +1,2 @@
-first line in commit
+first line in the commit
+second  line in the commit
