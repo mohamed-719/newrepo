@@ -1,1 +1,4 @@
 first line in the commit
+second line in the commit
+third line in the commit
+
